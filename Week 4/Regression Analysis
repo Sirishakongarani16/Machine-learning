@@ -1,1 +1,10 @@
+Regression Analysis:
+Regression Analysis is a supervised machine learning technique used to predict a continuous numerical value based on one or more input features. It helps understand the relationship between dependent and independent variables and is widely used for forecasting and prediction.
 
+Applications
+🏠 House Price Prediction
+📈 Stock Price Forecasting
+🌡️ Weather Prediction
+💰 Sales Forecasting
+🚗 Car Price Prediction
+🏥 Medical Cost Prediction
